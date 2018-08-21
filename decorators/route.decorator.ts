@@ -1,3 +1,4 @@
+import "reflect-metadata";
 import * as Router from "koa-router";
 import { EkoRouteDecorator } from "../types/EkoRouteDecorator.type";
 import { Route } from "../models/route.model";

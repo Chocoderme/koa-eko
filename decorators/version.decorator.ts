@@ -1,3 +1,4 @@
+import "reflect-metadata";
 import { EkoControllerDecorator } from "../types/EkoControllerDecorator.type";
 
 export function EkoVersion(version: string): EkoControllerDecorator {

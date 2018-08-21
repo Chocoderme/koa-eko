@@ -8,6 +8,6 @@ export class Route {
     Description: string;
 
     public constructor(init?: Partial<Route>) {
-        Object.assign(this, init);
+        (<any>Object).assign(this, init);
     }
 }
