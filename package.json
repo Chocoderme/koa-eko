@@ -1,6 +1,6 @@
 {
   "name": "koa-eko",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Create koa-router controllers using a decorator-based style",
   "main": "dist/index.js",
   "scripts": {
